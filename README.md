@@ -9,7 +9,7 @@ This is a tool for easily copying the library from under the old domain to the n
 
 ## How
 Download or copy from: \
-https://anttikotajarvi.github.io/modbus-webui-legacy-exporter
+https://anttikotajarvi.github.io/modbus-webui-legacy-export
 
 Or direct import by:
 - Going to https://modbuswebui.dev
