@@ -16,6 +16,8 @@ Or direct import by:
 - Navigating to ´Import/Export´
 - Open popup with ´Get localStorage from old domain´
 
+
+## Why
 Local storage is per domain origin, and since this is hosted under the same root as the old one -> the same storage is still accessible from here.
 
 Moving into modbus-webui 1.0.0 we aim minimize the need for these kinds of interruptions in the deployed build of the app.
